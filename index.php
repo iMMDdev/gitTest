@@ -14,8 +14,5 @@
 <span>lorem ipsum</span>
 <span>lorem ipsum</span>
 <span>lorem ipsum</span>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur assumenda commodi esse ex impedit in ipsam iste laborum laudantium libero molestias non numquam saepe similique sint tempore voluptatibus?</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur assumenda commodi esse ex impedit in ipsam iste laborum laudantium libero molestias non numquam saepe similique sint tempore voluptatibus?</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, animi aspernatur assumenda commodi esse ex impedit in ipsam iste laborum laudantium libero molestias non numquam saepe similique sint tempore voluptatibus?</p>
 </body>
 </html>
